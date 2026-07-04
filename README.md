@@ -40,7 +40,8 @@ I'm a passionate BCA student with a strong interest in software development, pro
 
 ## 📊 GitHub Stats
 
-![Prince's GitHub Stats][(https://github-readme-stats.vercel.app/api?username=Princekr001&show_icons=true&theme=tokyonight)]
+![Prince's GitHub Stats] https://github-readme-stats.vercel.app/api?username=Princekr001
+
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Princekr001&layout=compact&theme=tokyonight)
 
