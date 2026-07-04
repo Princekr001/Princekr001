@@ -3,7 +3,7 @@
 <!--
 **Princekr001/Princekr001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+##Here are some ideas to get you started:
 - 🔭 I’m currently working on Java-based software development projects and cybersecurity-focused applications.
 - 🌱 I’m currently learning Core Java, Data Structures & Algorithms, Database Management Systems, and Cybersecurity.
 - 👯 I’m looking to collaborate on open-source Java, software development, and cybersecurity projects.
