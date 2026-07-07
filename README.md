@@ -24,7 +24,7 @@ I'm a passionate BCA student with a strong interest in software development, pro
 - **Languages:** Java, C, SQL
 - **Concepts:** Object-Oriented Programming, Data Structures & Algorithms
 - **Databases:** MySQL
-- **Tools:** Git, GitHub, VS Code, IntelliJ IDEA
+- **Tools:** Git, GitHub, VS Code
 - **Areas of Interest:** Software Development, Cybersecurity, Problem Solving
 
 ---
