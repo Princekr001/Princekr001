@@ -8,7 +8,7 @@ I'm a passionate BCA student with a strong interest in software development, pro
 
 - 🔭 I'm currently working on Java-based software development projects and cybersecurity applications.
 - 🌱 I'm currently learning Core Java, Data Structures & Algorithms, Database Management Systems, and Cybersecurity.
-- 👯 I'm looking to collaborate on open-source Java and software development projects.
+- 👯‍♀️ I'm looking to collaborate on open-source Java and software development projects.
 - 🤔 I'm looking for guidance in backend development, cloud technologies, and cybersecurity.
 - 💬 Ask me about Java, OOP, Data Structures, Git, GitHub, and software development.
 - 📫 Reach me at:
