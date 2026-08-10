@@ -10,7 +10,7 @@ I'm a passionate BCA student with a strong interest in software development, pro
 - 🌱 I'm currently learning Core Java, Data Structures & Algorithms, Database Management Systems, and Cybersecurity.
 - 👯‍♀️ I'm looking to collaborate on open-source Java and software development projects.
 - 🤔 I'm looking for guidance in backend development, cloud technologies, and cybersecurity.
-- 💬 Ask me about Java, OOP, Data Structures, Git, GitHub, and software development.
+- 💬 Ask me about Java, OOP, Data Structures, GitHub, and software development.
 - 📫 Reach me at:
   - **Email:** princekumarhzb921@gmail.com
   - **LinkedIn:** https://www.linkedin.com/in/princekumar921
@@ -21,10 +21,10 @@ I'm a passionate BCA student with a strong interest in software development, pro
 
 ## 🛠️ Skills
 
-- **Languages:** Java, C, SQL
+- **Languages:** Java, SQL
 - **Concepts:** Object-Oriented Programming, Data Structures & Algorithms
 - **Databases:** MySQL
-- **Tools:** Git, GitHub, VS Code
+- **Tools:** GitHub, VS Code
 - **Areas of Interest:** Software Development, Cybersecurity, Problem Solving
 
 ---
